@@ -1,7 +1,6 @@
 {
   "name": "tictactoe",
   "version": "0.1.0",
-  "homepage": "https://rahullgupta.github.io/tictactoe",
   "description": "",
   "license": "MIT",
   "scripts": {
